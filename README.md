@@ -1,5 +1,51 @@
 # React + Vite
 
+# Mohamed Khalith Portfolio
+
+A modern and responsive portfolio website showcasing my graphic design work, services, testimonials, and projects.
+
+## 🚀 Tech Stack
+
+- React 18
+- Vite
+- Tailwind CSS
+- React Router DOM
+- Framer Motion
+- React Icons
+
+## ✨ Features
+
+- Modern UI
+- Fully Responsive
+- Smooth Navigation
+- Animated Components
+- Project Showcase
+- Testimonials
+- Contact Form
+- Scroll to Top
+- Optimized Performance
+
+## 📷 Preview
+
+(Add screenshots here after deployment.)
+
+## 📦 Installation
+
+```bash
+npm install
+npm run dev
+```
+
+## Build
+
+```bash
+npm run build
+```
+
+## License
+
+MIT
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
