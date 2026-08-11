@@ -8,7 +8,7 @@ import ProjectLightbox from "./components/ProjectLightbox";
 import ServiceCard from "./components/ServiceCard";
 import SkillBadge from "./components/SkillBadge";
 import ExperienceTimeline from "./components/ExperienceTimeline";
-import TestimonialSlider from "./components/TestimonialSlider";
+{/*import TestimonialSlider from "./components/TestimonialSlider";*/}
 import ContactForm from "./components/ContactForm";
 import Footer from "./components/Footer";
 import PosterCarousel from "./components/PosterCarousel";
@@ -561,7 +561,7 @@ const handleScrollTo = (id: string) => {
           </div>
         </section>   */}
 
-        {/* TESTIMONIALS SECTION (Nav-marker gap filler) */}
+        {/* TESTIMONIALS SECTION (Nav-marker gap filler)
         <section id="testimonials" className="py-10 px-6 sm:px-12 md:px-16 lg:px-24 border-t border-white/5 bg-[#080808]/30">
           <div className="max-w-7xl mx-auto space-y-12">
             <div className="text-center">
@@ -578,7 +578,7 @@ const handleScrollTo = (id: string) => {
 
             <TestimonialSlider testimonials={testimonialsData} />
           </div>
-        </section>
+        </section>*/}
 
         {/* LET'S TALK / CONTACT SECTION */}
         <section id="contact" className="py-24 px-6 sm:px-12 md:px-16 lg:px-24 border-t border-white/5">

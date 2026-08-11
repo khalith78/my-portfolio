@@ -45,7 +45,7 @@ export default function Footer() {
           {/* Social icons */}
           <div className="flex gap-3 pt-2" id="footer-socials">
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/khalith/"
               target="_blank"
               rel="noreferrer"
               className="w-8 h-8 rounded-full bg-white/5 border border-white/10 hover:bg-brand-orange hover:border-brand-orange hover:text-white flex items-center justify-center text-gray-400 transition-colors"
@@ -54,7 +54,7 @@ export default function Footer() {
               <img src={LinkedinIcon} alt="LinkedIn" className="w-4 h-4" />
             </a>
             <a
-              href="https://instagram.com"
+              href="https://www.instagram.com/kld.graphix/"
               target="_blank"
               rel="noreferrer"
               className="w-8 h-8 rounded-full bg-white/5 border border-white/10 hover:bg-brand-orange hover:border-brand-orange hover:text-white flex items-center justify-center text-gray-400 transition-colors"
