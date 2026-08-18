@@ -200,7 +200,7 @@ const handleScrollTo = (id: string) => {
                 className="text-lg sm:text-xl text-gray-400 font-sans font-medium tracking-wide max-w-lg leading-relaxed"
                 id="hero-subtitle"
               >
-                Graphic & Multimedia Designer based in India.
+                Graphic Designer based in India.
               </motion.p>
 
               {/* Buttons Row */}
