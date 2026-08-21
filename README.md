@@ -75,7 +75,7 @@ git clone https://github.com/khalith78/my-portfolio.git
 Navigate to the project directory:
 
 ```bash
-cd your-portfolio
+cd my-portfolio
 ```
 
 Install the dependencies:
