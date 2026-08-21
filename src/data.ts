@@ -302,7 +302,31 @@ export const projectsData: Project[] = [
   gallery: [
     "https://objectstorage.ap-hyderabad-1.oraclecloud.com/n/ax3aga3nui2o/b/portfolio-media/o/Anniversary%20Celeb%20Post.jpg"
   ]
-}
+},
+{
+    id: "poster9",
+    title: "Babulal Silks Poster",
+    category: "graphic",
+    categoryLabel: "Graphic Design & Posters",
+    image: "https://objectstorage.ap-hyderabad-1.oraclecloud.com/n/ax3aga3nui2o/b/portfolio-media/o/Babulal%20Saree%20.png",
+    description: "Designed this poster to capture the heritage, elegance, and craftsmanship of Babulal Silks. The deep green and gold palette reflects the richness of traditional Kanchipuram sarees, while the floral motifs add a refined cultural touch.",
+    longDescription: "A high-impact poster designed with bold typography, vibrant colors, and premium composition to showcase modern graphic design skills.",
+    client: "Babulal Silks | ZenBasket",
+    role: "Graphic Designer",
+    year: "2025",
+    duration: "1 Day",
+    skillsUsed: ["Photoshop"],
+    challenge: "To present the traditional richness of Babulal Silks in a way that felt both authentic and visually premium.",
+    solution: "Combined saree product visuals with a lifestyle portrait to create a premium, aspirational feel and visually communicate the journey",
+    keyDeliverables: [
+      "High Resolution Poster",
+      "Social Media Artwork",
+      "Editable Source File"
+    ],
+    gallery: [
+      "https://objectstorage.ap-hyderabad-1.oraclecloud.com/n/ax3aga3nui2o/b/portfolio-media/o/Babulal%20Saree%20.png"
+    ]
+  },
   
 ];
 
